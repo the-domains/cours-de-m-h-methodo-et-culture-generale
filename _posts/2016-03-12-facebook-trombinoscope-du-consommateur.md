@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Idée générale: la ressource la plus rare sur Terre est le temps. Or, nous perdons notre temps. Nous remplissons nos vies par du vide. Parfois, uniquement à cause de notre peur de l’effort; d’autres fois, nous y sommes poussés par notre environnement numérique, en particulier les réseaux sociaux. Comment et en quoi perdons-nous notre temps ? Que faire quand on n’a rien à faire ? Comment combattre le vide ?'
-datePublished: '2016-03-12T15:16:35.053Z'
-dateModified: '2016-03-12T15:15:46.316Z'
+datePublished: '2016-03-12T15:23:37.742Z'
+dateModified: '2016-03-12T15:23:36.922Z'
 title: 'Facebook, trombinoscope du consommateur.'
 author: []
 sourcePath: _posts/2016-03-12-facebook-trombinoscope-du-consommateur.md
@@ -23,8 +23,7 @@ _type: Article
 
 ---
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ee18b27-41e2-49c9-b37a-545e20f3b3b5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c1c017e-8f6e-4821-a215-60117447e8e0.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1e6109354168c4ad4bda8bae692fbe0b95015bf.png)
 
 > Idée générale: la ressource la plus rare sur Terre est le temps. Or, nous perdons notre temps. Nous remplissons nos vies par du vide. Parfois, uniquement à cause de notre peur de l'effort; d'autres fois, nous y sommes poussés par notre environnement numérique, en particulier les réseaux sociaux. Comment et en quoi perdons-nous notre temps ? Que faire quand on n'a rien à faire ? Comment combattre le vide ?
 
@@ -38,15 +37,15 @@ Alors que des appareils comme la télévision ou le lave-vaisselle ont mis 30 an
 
 _Qu'est ce qu'un réseau ?_
 
-**__**
+_****_
 
 _En premier ressort, un réseau désigne au sens concret « un ensemble de lignes entrelacées » et, au figuré « un ensemble de relations »._
 
 _Le réseau peut être « matériel » (comme le réseau électrique, le réseau routier, le réseau sanguin ou le réseau lymphatique), « immatériel » (comme le réseau social)._
 
-**__**
+_****_
 
-_Un réseau social est un ensemble d'individus ou d'organisations reliés par des interactions sociales régulières._
+Un réseau social est un ensemble d'individus ou d'organisations reliés par des interactions sociales régulières.
 
 ****
 
@@ -225,6 +224,3 @@ Cartes mentales, schémas, anything.
 * Identifier les mangeurs de temps.
 * Faire le ménage dans ses habitudes.
 * S'imposer des limites de temps.
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a2d2e50c601fe6113f494ab7051a3d3e/passthrough.png?height=215&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F128a45a41d37858db55f5321180ead89f37fb1ab.png&width=600)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/93aab8b6787a5072ac92c3358fc7df05/passthrough.png?height=215&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fda61cb3d3b8789a99699b2119826e18d86747015.png&width=600)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0fbfdeb3503d1b9bc5461bbe1091d57b/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4e87f649-03ae-4f5b-a043-4680d0dd1403.jpg)
