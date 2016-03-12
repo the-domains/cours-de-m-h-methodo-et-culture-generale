@@ -1,0 +1,28 @@
+name: Cours de M. H. - Méthodo et culture générale
+favicon: null
+layout_spectrum: 0.18758896621875465
+typography_spectrum: 0.17046695575118065
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3720752219669521
+  lightness: 0.47462563985027373
+  saturation: 0.5845133513212204
+  rhythmicContrast: 0.7227946680504829
+purpose: []
