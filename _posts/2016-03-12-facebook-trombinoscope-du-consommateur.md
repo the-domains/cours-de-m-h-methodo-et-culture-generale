@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Idée générale: la ressource la plus rare sur Terre est le temps. Or, nous perdons notre temps. Nous remplissons nos vies par du vide. Parfois, uniquement à cause de notre peur de l’effort; d’autres fois, nous y sommes poussés par notre environnement numérique, en particulier les réseaux sociaux. Comment et en quoi perdons-nous notre temps ? Que faire quand on n’a rien à faire ? Comment combattre le vide ?'
-datePublished: '2016-03-12T15:39:13.538Z'
-dateModified: '2016-03-12T15:25:43.493Z'
+datePublished: '2016-03-12T15:41:39.961Z'
+dateModified: '2016-03-12T15:41:22.293Z'
 title: 'Facebook, trombinoscope du consommateur.'
 author: []
 sourcePath: _posts/2016-03-12-facebook-trombinoscope-du-consommateur.md
