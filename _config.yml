@@ -1,4 +1,4 @@
-name: Cours de M. H. - Méthodo et culture générale
+name: Cours de M. H.
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.60074
@@ -22,7 +22,7 @@ color:
     - '#fcacc5'
     - '#c16a6a'
     - '#91493b'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 1
   saturation: 0
   rhythmicContrast: 1
