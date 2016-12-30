@@ -1,29 +1,38 @@
-name: Cours de M. H.
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.60074
-title: Méthodo et culture générale
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.2935643362426337
+color:
+  brandColors:
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
+  brandStrength: 0.6296458203624934
+  lightness: 0.20943987815419562
+  saturation: 0.13690124604602041
+  rhythmicContrast: 0.33548981921286275
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#e4fdfe'
-    - '#fcacc5'
-    - '#c16a6a'
-    - '#91493b'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 1
-purpose: []
+layout_spectrum: 0.27858209954371843
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Cours de M. H.
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: 'Facebook, trombinoscope du consommateur.'
+    id: 3a134fc1-1c5d-44a6-95e2-0ba4e86cc162
+    type: content
+favicon: null
+title: Méthodo et culture générale
+content: []
+purpose:
+  - type: external
+    url: 'http://www.ecole-diagonale.fr'
+    label: Ecole Diagonale
