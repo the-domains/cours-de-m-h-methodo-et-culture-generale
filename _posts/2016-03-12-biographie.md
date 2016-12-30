@@ -1,50 +1,34 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-12T15:38:22.213Z'
-dateModified: '2016-03-12T15:38:20.872Z'
+datePublished: '2016-12-30T12:39:22.960Z'
+dateModified: '2016-12-30T12:39:21.506Z'
 title: 'BIOGRAPHIE :'
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-03-12-biographie.md
-published: true
+authors: []
+publisher: {}
+via: {}
+starred: false
+datePublishedOriginal: '2016-03-12T15:38:22.213Z'
 url: biographie/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84a9a94c-5ab8-4bac-8165-4dc32df4714f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3482f8f35d4f83cebe559438b8fb7d1f65bdaaa6.jpg)
 
 > Joseph Campbell (26 mars 1904 - 30 octobre 1987) est un professeur, écrivain, orateur, anthropologue et mythologue américain, travaillant dans les domaines de la mythologie comparée et de la religion comparée. Il est notamment connu pour sa théorie du monomythe.
 
 # BIOGRAPHIE :
 
-**  
-**
-
 Joseph Campbell est né et a grandi dans la ville de New York dans une famille catholique de classe moyenne aisée. Enfant, Campbell se découvrit une passion pour la culture amérindienne grâce à son père qui l'emmena visiter le muséum d'histoire naturelle américain de New York. Il devint très rapidement un expert dans de nombreux aspects de la société amérindienne, et plus spécifiquement dans sa mythologie. 
-
-**  
-**
 
 Cela façonna la passion de Campbell pour les mythes et apparentés (contes, légendes...). Il remarqua ainsi qu'ils possèdent apparemment tous des traits communs et cela quelle que soit la culture à laquelle ils appartiennent. 
 
-**  
-**
-
 À l'université de Dartmouth, il étudia la biologie et les mathématiques, avant d'aller étudier les sciences humaines à l'université Columbia. Il étudia ensuite l'ancien français et le sanskrit à l'université de Paris ainsi qu'à celle de Munich. Il apprit le français, l'allemand, le japonais et le sanskrit en plus de sa langue natale. 
-
-**  
-**
 
 Après avoir achevé sa maîtrise, Campbell décida à son retour aux États-Unis d'abandonner l'idée d'obtenir un doctorat ; à la place, il préféra s'isoler dans les bois situés aux alentours de New York, se consacrant principalement à la lecture durant les cinq ans qui suivirent. D'après le poète et écrivain Robert Bly, un de ses amis, Campbell avait développé un programme systématique lui permettant de lire pendant neuf heures chaque jour. Campbell considérait que c'est durant cette période qu'il a reçu sa véritable éducation, et c'est à ce moment qu'il a commencé à développer sa vision unique sur la nature de la vie.
 
@@ -56,9 +40,6 @@ Campbell fut professeur au Sarah Lawrence College, une université d'arts libér
 
 Campbell était d'accord avec les textes de Jung expliquant des phénomènes psychologiques, ceux-ci faisant appel aux archétypes. Mais à la différence de Jung, Campbell ne croyait ni à l'astrologie, ni à la synchronicité. 
 
-**  
-**
-
 Il croyait que toutes les religions du monde et les déités, n'étaient que les "masques" d'une seule et même vérité insaisissable. Autrement dit, toutes les formes de spiritualité n'étaient pour lui que la recherche d'une même force inconnue, qu'il qualifiait d'immanente plutôt que de transcendante, de laquelle tout proviendrait, dans laquelle tout existe, et dans laquelle tout retournera. 
 
 ## LE MONOMYTHE OU LE VOYAGE DU HEROS :
@@ -66,9 +47,6 @@ Il croyait que toutes les religions du monde et les déités, n'étaient que les
 Dans son essai de 1949, Le Héros aux mille et un visages (The Hero with a Thousand Faces), Campbell expose sa théorie du monomythe. 
 
 Campbell soutient que quasiment tous les héros mythiques, quelle que soit l'époque et la culture dans lesquelles ils vivent, suivent un parcours initiatique contenant au moins une partie du schéma narratif suivant: 
-
-**  
-**
 
 1. Le héros dans son monde ordinaire : il s'agit d'une introduction qui fera mieux ressortir le caractère extraordinaire des aventures qui suivront.
 2. L'appel à l'aventure, qui se présente comme un problème ou un défi à relever.
@@ -83,12 +61,7 @@ Campbell soutient que quasiment tous les héros mythiques, quelle que soit l'ép
 11. Le héros revient du monde extraordinaire où il s'était aventuré, transformé par l'expérience.
 12. Le retour dans le monde ordinaire et l'utilisation de l'objet de la quête pour améliorer le monde (donnant ainsi un sens à l'aventure).
 
-****
-
 Ce voyage du héros peut être résumé en cinq grandes étapes :
-
-**  
-**
 
 1. L'appel à l'aventure, que le héros accepte ou bien refuse dans un premier temps.
 2. Une série d'épreuves.
@@ -96,32 +69,9 @@ Ce voyage du héros peut être résumé en cinq grandes étapes :
 4. Le retour dans le monde ordinaire.
 5. L'utilisation du savoir acquis pour améliorer le monde.
 
-****
-
 Christopher Vogler, un écrivain, et producteur de film hollywoodien, a rédigé un mémo de sept pages désormais légendaire, un guide pratique du héros aux mille visages, basé sur le travail de Campbell. Il servit ensuite de base à de nombreux films hollywoodiens qui connurent un certain succès. 
-
-**  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-**
-
+> 
 > Voici un certain nombre d'oeuvres construites à partir du schéma narratif du voyage initiatique du héros, tel que décrit par Joseph Campbell:
-
-**  
-**
 
 * Romans:
 
@@ -155,8 +105,7 @@ The Hunger Games
 
 ... 
 
-**[][1][][2][][3][][4][][5][][6]  
-**
+**[][1][][2][][3][][4][][5][][6]**
 
 * Longs Métrages: 
 
@@ -186,8 +135,7 @@ Matrix
 
 . 
 
-**[][8][][9][][10][][11][][12]  
-**
+**[][8][][9][][10][][11][][12]**
 
 * S[éries télévisées][13]: 
 
@@ -205,8 +153,7 @@ Once Upon A Time
 
 , Merlin... 
 
-**[][15][][16]  
-**
+**[][15][][16]**
 
 * L[ongs métrages d'animation Disney][17]: 
 
@@ -240,8 +187,7 @@ Cendrillon
 
 ...
 
-**[][18][][19][][20][][21][][22][][23][][24]  
-**
+**[][18][][19][][20][][21][][22][][23][][24]**
 
 * M[angas][25] et [anime][26]: 
 
@@ -275,8 +221,7 @@ D.Gray-man
 
 ...
 
-**[][28][][29][][30][][31][][32][][33]  
-**
+**[][28][][29][][30][][31][][32][][33]**
 
 * J[eux vidéo][34]: 
 
