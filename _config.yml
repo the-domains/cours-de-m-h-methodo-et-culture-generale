@@ -32,6 +32,9 @@ navigation:
 favicon: null
 title: Méthodo et culture générale
 content: []
+description: >-
+  Cours libre de Julien Horville à l'intention de la classe de 1ère L de l'École
+  Diagonale.
 purpose:
   - type: external
     url: 'http://www.ecole-diagonale.fr'
