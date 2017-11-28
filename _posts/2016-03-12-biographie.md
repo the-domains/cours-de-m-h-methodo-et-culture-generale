@@ -4,8 +4,8 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-12-30T12:39:22.960Z'
-dateModified: '2016-12-30T12:39:21.506Z'
+datePublished: '2017-11-28T18:42:02.078Z'
+dateModified: '2017-11-28T18:41:59.588Z'
 title: 'BIOGRAPHIE :'
 author: []
 sourcePath: _posts/2016-03-12-biographie.md
