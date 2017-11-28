@@ -25,10 +25,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Joseph Campbell
-    id: 80a2969c-d155-4166-8fbd-7d6cfe94e467
-    type: content
 favicon: null
 title: Méthodo et culture générale
 content: []
