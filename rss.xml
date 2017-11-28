@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Cours de M. H. - Méthodo et culture générale]]></title>
-        <description><![CDATA[Cours de M. H. - Méthodo et culture générale]]></description>
+        <title><![CDATA[Méthodo et culture générale]]></title>
+        <description><![CDATA[Méthodo et culture générale]]></description>
         <link>https://thegrid.ai/cours-de-m-h-methodo-et-culture-generale/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 15:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2017 18:42:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cours-de-m-h-methodo-et-culture-generale/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[BIOGRAPHIE :]]></title>
-            <description><![CDATA[<article><h1>BIOGRAPHIE :</h1><p></p></article>]]></description>
-            <link>https://thegrid.ai/cours-de-m-h-methodo-et-culture-generale/biographie/index.html</link>
-            <guid isPermaLink="false">80a2969c-d155-4166-8fbd-7d6cfe94e467</guid>
-            <pubDate>Sat, 12 Mar 2016 15:38:22 GMT</pubDate>
-        </item>
+        <pubDate>Tue, 28 Nov 2017 18:42:02 GMT</pubDate>
         <item>
             <title><![CDATA[Facebook, trombinoscope du consommateur.]]></title>
-            <description><![CDATA[<article><h1>Facebook, trombinoscope du consommateur.</h1><p></p></article>]]></description>
+            <description><![CDATA[<blockquote><p>Idée générale: la ressource la plus rare sur Terre est le temps. Or, nous perdons notre temps. Nous remplissons nos vies par du vide. Parfois, uniquement à cause de notre peur de l’effort; d’autres fois, nous y sommes poussés par notre environnement numérique, en particulier les réseaux sociaux. Comment et en quoi perdons-nous notre temps ? Que faire quand on n’a rien à faire ? Comment combattre le vide ?</p></blockquote>]]></description>
             <link>https://thegrid.ai/cours-de-m-h-methodo-et-culture-generale/facebook-trombinoscope-du-consommateur/index.html</link>
             <guid isPermaLink="false">3a134fc1-1c5d-44a6-95e2-0ba4e86cc162</guid>
             <pubDate>Sat, 12 Mar 2016 15:41:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BIOGRAPHIE :]]></title>
+            <description><![CDATA[<blockquote><p>Joseph Campbell (26 mars 1904 - 30 octobre 1987) est un professeur, écrivain, orateur, anthropologue et mythologue américain, travaillant dans les domaines de la mythologie comparée et de la religion comparée. Il est notamment connu pour sa théorie du monomythe.</p></blockquote>,<h1>BIOGRAPHIE :</h1>]]></description>
+            <link>https://thegrid.ai/cours-de-m-h-methodo-et-culture-generale/biographie/index.html</link>
+            <guid isPermaLink="false">80a2969c-d155-4166-8fbd-7d6cfe94e467</guid>
+            <pubDate>Sat, 12 Mar 2016 15:38:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
